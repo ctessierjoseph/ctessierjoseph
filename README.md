@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning CSS/HTML/JS
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me... don't.
+- 📫 How to reach me... just don't.
 
 <!---
 zeprescription/zeprescription is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
