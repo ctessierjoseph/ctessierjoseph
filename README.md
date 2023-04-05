@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeprescription
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning CSS/HTML/JS
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me... just don't.
 
 <!---
