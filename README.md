@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeprescription
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning CSS/HTML/JS
-- 📫 How to reach me... just don't.
 
 <!---
 zeprescription/zeprescription is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
