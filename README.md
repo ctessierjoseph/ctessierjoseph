@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zeprescription
+- 👋 Hi, I’m @ctessierjoseph
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning CSS/HTML/JS
 
